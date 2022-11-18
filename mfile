@@ -1,0 +1,7 @@
+{
+  "package": "copyWithoutNewlines",
+  "version": "1.0.0",
+  "author": "Demonnic",
+  "title": "Copy text from the main console without line breaks",
+  "outputFile": true
+}
